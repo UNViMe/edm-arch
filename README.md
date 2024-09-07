@@ -11,9 +11,9 @@ The team is conformed by the Professors:
 - Garis, A. G.
 
 # Index
-- [Whats included in this repository?](#h1-whats-included-in-this-repository)
-- [Introduction](#h1-introduction)
-- [Proposed Model](#h1-proposed-model)
+- [Whats included in this repository?](#whats-included-in-this-repository)
+- [Introduction](#introduction)
+- [Proposed Model](#proposed-model)
 
 # What is included in this repository?
 - 📒 [Dropout_of_student_programmers.ipynb](https://github.com/UNViMe/edm-arch/blob/main/Dropout_of_student_programmers.ipynb): Jupiter Notebook ready for Google Colab.
