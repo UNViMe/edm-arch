@@ -2,13 +2,7 @@
 
 In this repository you can find the *information about the proposed model* revised in the paper "***Advanced Data Mining Solution for Educational Decision Making***".
 This work is part of the joint effort made by the *National University of Villa Mercedes*, the *National University of San Luis* and the *School of Computing and Information Technology* from the *Eastern International University of Vietnam*.
-The team is conformed by the Professors:
-- Debnath, N. C.
-- Novillo-Rangone, G. A
-- Montejano, G. A.
-- Molina, W. R.
-- Riesco, D.
-- Garis, A. G.
+The team is conformed by the Professors: Debnath, N. C., Novillo-Rangone, G. A, Montejano, G. A., Molina, W. R., Riesco, D. Garis, A. G.
 
 # Index
 - [Whats included in this repository?](#whats-included-in-this-repository)
