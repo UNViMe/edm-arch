@@ -1,7 +1,9 @@
 # Advanced Data Mining Solution for Educational Decision Making
 
 In this repository you can find the *information about the proposed model* revised in the paper "***Advanced Data Mining Solution for Educational Decision Making***".
+
 This work is part of the joint effort made by the *National University of Villa Mercedes*, the *National University of San Luis* and the *School of Computing and Information Technology* from the *Eastern International University of Vietnam*.
+
 The team is conformed by the Professors: Debnath, N. C., Novillo-Rangone, G. A, Montejano, G. A., Molina, W. R., Riesco, D. Garis, A. G.
 
 # Index
@@ -23,7 +25,6 @@ In recent years, there has been a great deal of research showing how EDM techniq
 In 2019, the United Nations Educational, Scientific and Cultural Organization (UNESCO) produced a document known as the “Beijing Consensus on Artificial Intelligence and Education”, in which it proposes advice and recommendations on how to take greater advantage of AI technologies with a view to achieving the 2030 Agenda for Education. Among the guidelines, they recommend using AI to serve learning and the evaluation of results, ensuring an ethical, transparent and verifiable use of data and algorithms. In addition, the International Institute for Higher Education in Latin America and the Caribbean (IESALC) states as one of its priorities in Innovation:
 
 > “Contribute to the pedagogical renewal of higher education through analyses that contribute to a better understanding of the impact of emerging technologies: Elaboration of a series of reports that present the challenges derived from emerging technologies and how different higher education institutions in the region and internationally, face them, showing their practices in the areas of AI, blockchain, and learning metrics”.
-> 
 
 In the same sense as the IESALC and the Beijing Consensus, the proposal of Romero et al. is shown, where it is specified that the design of processes should facilitate educators or non-expert users in the area of Data Mining (DM) the implementation of knowledge extraction techniques.
 
@@ -69,7 +70,9 @@ The proposed model will allow educational institutions to obtain complex knowled
 
 This new model will allow institutions to concentrate their efforts on the analysis of the educational environment and possible solutions, that is, on both extremes of the model where educational institutions have the most expertise, allowing the proposed model to organize and guide the work on the central tasks.
 To achieve the main goal, several methods, techniques and tools have been included to automate complex tasks in the EDM model, ranging from data preprocessing, feature preprocessing, choice of algorithms and their hyperparameters up to interpretability and explainability in all these tasks. For this model, a series of tasks are defined that must be fulfilled to achieve the objective and most of them have been automated to allow the use of ML (from task No. 6 to No. 14).
+
 At the same time, the tasks of Data, Models and Results Explainability & Interpretability have been automated.
+
 The tasks required to achieve the objective are presented in the following order:
 1. Analysis of the Educational Environment to learn about the information systems available and the educational systems used.
 2. Definition of the problem to be investigated (low performance, dropout, procrastination, teaching quality, lack of educational resources, teacher training, etc).
