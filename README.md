@@ -91,6 +91,12 @@ The tasks required to achieve the objective are presented in the following order
 15. Model persistence. The effort carried out must be stored to avoid having to perform it again. This storage can be done in two different ways depending on the intentions of the institution. It is possible to store only the trained model or to store the whole pipeline or workflow.
 16. The conclusion of the problems is in charge of a set of multidisciplinary professionals of the educational institution that will evaluate the magnitude of the characteristics (causes) that influence the result, and the metrics obtained and will propose solution alternatives. At the end of a period or academic cycle, the problem should be re-evaluated to see if any progress has been made. Regardless of the type of educational problem to be solved, this set of multidisciplinary professionals must, first of all, before making any decision, check that the proposed ethical standards and their national and international regulations have been met, namely, at a minimum: privacy, bias, misuse of data, interpretability and explainability of results. Only in the case of compliance with these ethical standards, they must conclude, on one hand, whether they are satisfied with the model(s) found in terms of performance metrics of accuracy (accuracy, precision, recall, f1, mse, smse, mae, etc.), timing (training and prediction) and transparency (design and algorithmic), and, on the other hand, given that the main causes for the existence or persistence of an educational problem are known, propose alternative solutions to be implemented, which may be either in the academic field (curricular or extracurricular) or in the economic and social field.
 
+# Web tool
+To facilitate the process of using the proposed model, it is accompanied by a tool that provides web-based access to people with minimal training. The proposed tool, which is currently under active development can be used in preview, was designed and evaluated in the context of an Argentine public university. The tool is composed of 3 applications that are integrated in a traditional 3-tier web architecture. The source code can be found in three private repositories available to selected users:
+- End User Web Interface (https://github.com/waltermolina/edm-react-app)
+- Business Logic Rest API (https://github.com/waltermolina/edm-rest-api)
+- EDM Core API (https://github.com/waltermolina/edm-py-api)
+
 
 
 ---
