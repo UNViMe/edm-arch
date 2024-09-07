@@ -10,6 +10,11 @@ The team is conformed by the Professors:
 - Riesco, D.
 - Garis, A. G.
 
+# Index
+- [Whats included in this repository?](#h1-whats-included-in-this-repository)
+- [Introduction](#h1-introduction)
+- [Proposed Model](#h1-proposed-model)
+
 # What is included in this repository?
 - 📒 [Dropout_of_student_programmers.ipynb](https://github.com/UNViMe/edm-arch/blob/main/Dropout_of_student_programmers.ipynb): Jupiter Notebook ready for Google Colab.
 - 📑 [programmers2023.csv](https://github.com/UNViMe/edm-arch/blob/main/programmers2023.csv): source data for the algorithm presented in the Jupyter Notebook.
@@ -88,3 +93,8 @@ The tasks required to achieve the objective are presented in the following order
 14. To analyze the interpretability of the models, the type of methods should be selected, whether they are interpretable (linear regression, logistic, weight plot, effect plot, precision recall plot, Silhouette Coefficient, etc.) or independent of the model (PDP, Features Interaction, LIME, SHAP, etc.), in addition to deciding on a local or global interpretation, or both. Based on knowing which are the characteristics that most influenced the decision of the models and understanding that no algorithmic bias errors are made, the metrics of the results of the models considered are analyzed.
 15. Model persistence. The effort carried out must be stored to avoid having to perform it again. This storage can be done in two different ways depending on the intentions of the institution. It is possible to store only the trained model or to store the whole pipeline or workflow.
 16. The conclusion of the problems is in charge of a set of multidisciplinary professionals of the educational institution that will evaluate the magnitude of the characteristics (causes) that influence the result, and the metrics obtained and will propose solution alternatives. At the end of a period or academic cycle, the problem should be re-evaluated to see if any progress has been made. Regardless of the type of educational problem to be solved, this set of multidisciplinary professionals must, first of all, before making any decision, check that the proposed ethical standards and their national and international regulations have been met, namely, at a minimum: privacy, bias, misuse of data, interpretability and explainability of results. Only in the case of compliance with these ethical standards, they must conclude, on one hand, whether they are satisfied with the model(s) found in terms of performance metrics of accuracy (accuracy, precision, recall, f1, mse, smse, mae, etc.), timing (training and prediction) and transparency (design and algorithmic), and, on the other hand, given that the main causes for the existence or persistence of an educational problem are known, propose alternative solutions to be implemented, which may be either in the academic field (curricular or extracurricular) or in the economic and social field.
+
+
+
+---
+This is a ⚖️ GNU GPLv3 work, made with ❤️ in 🇦🇷 . Need help? Get in contact 👉 {wmolina,gnovillo}@unvime.edu.ar.
