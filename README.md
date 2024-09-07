@@ -10,7 +10,9 @@ The team is conformed by the Professors:
 - Riesco, D.
 - Garis, A. G.
 
-
+# What is included in this repository?
+- 📒 [Dropout_of_student_programmers.ipynb](https://github.com/UNViMe/edm-arch/blob/main/Dropout_of_student_programmers.ipynb): Jupiter Notebook ready for Google Colab.
+- 📑 [programmers2023.csv](https://github.com/UNViMe/edm-arch/blob/main/programmers2023.csv): source data for the algorithm presented in the Jupyter Notebook.
 
 # Introduction
 Educational Data Mining (EDM) is a discipline concerned with developing methods for exploring the specific and large amounts of data from educational environments and using those methods to better understand students and the institutions in which they learn. 
