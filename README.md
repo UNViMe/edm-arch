@@ -1,5 +1,18 @@
 # Advanced Data Mining Solution for Educational Decision Making
 
+In this repository you can find the *information about the proposed model* revised in the paper "***Advanced Data Mining Solution for Educational Decision Making***".
+This work is part of the joint effort made by the *National University of Villa Mercedes*, the *National University of San Luis* and the *School of Computing and Information Technology* from the *Eastern International University of Vietnam*.
+The team is conformed by the Professors:
+- Debnath, N. C.
+- Novillo-Rangone, G. A
+- Montejano, G. A.
+- Molina, W. R.
+- Riesco, D.
+- Garis, A. G.
+
+
+
+# Introduction
 Educational Data Mining (EDM) is a discipline concerned with developing methods for exploring the specific and large amounts of data from educational environments and using those methods to better understand students and the institutions in which they learn. 
 
 In recent years, there has been a great deal of research showing how EDM techniques have been used to improve academic performance, adaptive systems, educational quality, dropout rates, procrastination and institutional management at all educational levels (from pre-school to university) and for all modalities (face-to-face, online, hybrid). Some of the most important references are the “International Conference on Educational Data Mining” that has been held since 2008, and the “Journal of Educational Data Mining” that has been published since 2009. The achievements obtained in EDM have been possible thanks to the progress of determining components such as Computational Power, Big Data, Artificial Intelligence (AI), and the support of Researchers and International Organizations that promote these tools for a better educational quality.
