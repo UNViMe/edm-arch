@@ -1,7 +1,9 @@
 # Proposed Model
 
-The proposed model will allow educational institutions to obtain complex knowledge by applying Machine Learning with a minimal presence of data scientists or with human resources that have only some of the skills that a data scientist would possess. 
+The proposed model will allow educational institutions to obtain complex knowledge by applying Machine Learning with a minimal presence of data scientists or with human resources that have only some of the skills that a data scientist would possess.
+
 ![Fig. 1: Proposed Model](https://raw.githubusercontent.com/UNViMe/edm-arch/main/EDM-Model-FullProcess-Vertical-enUS.svg?token=GHSAT0AAAAAACXEXHRHFOJVR2E6CA773U3MZW3TX5A)
+
 This new model will allow institutions to concentrate their efforts on the analysis of the educational environment and possible solutions, that is, on both extremes of the model where educational institutions have the most expertise, allowing the proposed model to organize and guide the work on the central tasks.
 To achieve the main goal, several methods, techniques and tools have been included to automate complex tasks in the EDM model, ranging from data preprocessing, feature preprocessing, choice of algorithms and their hyperparameters up to interpretability and explainability in all these tasks. For this model, a series of tasks are defined that must be fulfilled to achieve the objective and most of them have been automated to allow the use of ML (from task No. 6 to No. 14).
 At the same time, the tasks of Data, Models and Results Explainability & Interpretability have been automated.
